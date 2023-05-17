@@ -1,0 +1,3 @@
+[submodule "ezpass-site-parser"]
+	path = ezpass-site-parser
+	url = https://github.com/patelb200/ezpass-site-parser.git

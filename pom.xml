@@ -10,6 +10,7 @@
 
     <modules>
         <module>ezpass-report-command</module>
+        <module>ezpass-site-parser</module>
     </modules>
 
 </project>
