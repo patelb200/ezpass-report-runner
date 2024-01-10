@@ -1,3 +1,7 @@
+# NO LONGER WORKS
+
+EZ has enabled two factor authentication which requires SMS code entry after login.
+
 # EZ-Pass Report Command
 
 Utility that scrapes and displays the vehicles, transponders and transactions from PA EZ-Pass site.
